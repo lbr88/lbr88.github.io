@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  domain-checker:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-07-17T09:01:07.883181117+02:00"
+    description: A Helm chart for domain availability checking
+    digest: d749d5f0f4a76d2f09833ee9726d60a32135cc55e753a60bb18a1db30be9d5d7
+    name: domain-checker
+    urls:
+    - https://lbr88.github.io/helm-charts/domain-checker-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-17T09:01:07.881955205+02:00"
